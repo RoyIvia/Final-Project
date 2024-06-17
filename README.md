@@ -188,7 +188,6 @@ Contributions to the Note App project are welcome! If you'd like to contribute, 
 
 <div align="center">
 
-_**A good `note-taking` system is essential for capturing information [@kalibetre](https://twitter.com/kalibetre/status/1770038721267618025)✍️**. For more info visit 👉 [LINK](https://www.google.com/search?q=A+good+note-taking+system+is+essential+for+capturing+information&oq=A+good+note-taking+system+is+essential+for+capturing+information&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYPTIGCAQQRRg80gEHNTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) ........😉_
 </div>
 
 ---
