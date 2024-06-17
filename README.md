@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# ALX WEB-Stack Portfolio: `Note App🗒️`
+# `Note App🗒️`
 </div>
 
 Welcome to my PLP Final Portfolio! This portfolio showcases the development of a **Note App**, which is a web-based application developed as part of the programme. Below, you'll find detailed information about the project, its components, and how to set it up.
